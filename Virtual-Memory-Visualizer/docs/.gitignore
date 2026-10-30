@@ -1,0 +1,19 @@
+
+# Compiled Windows executables
+*.exe
+
+# Object and library files
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Future frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
